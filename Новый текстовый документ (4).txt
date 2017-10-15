@@ -1,0 +1,69 @@
+		<link rel="stylesheet" href="//cdn.callbackhunter.com/widget/tracker.css"> 
+  
+
+
+
+<script type="text/javascript" src="a1/js/jquery.min.js"></script>
+
+	<script type="text/javascript" src="a1/js/scripts.js"></script>
+<script type="text/javascript" async src="http://app.comagic.ru/static/cs.min.js">
+	<script type="text/javascript" src="a1/js/validator.js"></script>
+	<script src="http://api-maps.yandex.ru/2.0/?load=package.standard&lang=ru-RU" type="text/javascript"></script>
+	<script type="text/javascript" src="a1/js/ymaps.js"></script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 964495195;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964495195/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</div>
+</p>
+	</div>
+	</noscript>
+	<!-- Yandex.Metrika informer -->
+<a href="https://metrika.yandex.ru/stat/?id=30354232&amp;from=informer"
+target="_blank" rel="nofollow" style="display: none;"><img src="//bs.yandex.ru/informer/30354232/1_1_FFFFD2FF_FFE4B2FF_0_pageviews"
+style="width:80px; height:15px; border:0;" alt="яндекс.ћетрика" title="яндекс.ћетрика: данные за сегодн€ (просмотры)" /></a>
+<!-- /Yandex.Metrika informer -->
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+(function (d, w, c) {
+    (w[c] = w[c] || []).push(function() {
+        try {
+            w.yaCounter30354232 = new Ya.Metrika({id:30354232,
+                    webvisor:true,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true});
+        } catch(e) { }
+    });
+
+    var n = d.getElementsByTagName("script")[0],
+        s = d.createElement("script"),
+        f = function () { n.parentNode.insertBefore(s, n); };
+    s.type = "text/javascript";
+    s.async = true;
+    s.src = (d.location.protocol == "https:" ? "https:" : "http:") + "//mc.yandex.ru/metrika/watch.js";
+
+    if (w.opera == "[object Opera]") {
+        d.addEventListener("DOMContentLoaded", f, false);
+    } else { f(); }
+})(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="//mc.yandex.ru/watch/30354232" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = '8flZ7Pe72I';
+var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);})();</script>
+<!-- {/literal} END JIVOSITE CODE -->
